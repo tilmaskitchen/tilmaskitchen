@@ -75,8 +75,7 @@
 										<li><a href="#" class="button">Full Story</a></li>
 									</ul>
 								</article>
-								<section class="posts">
-									<article>
+								<article>
 										<header>
 											<span class="date">April 02, 2020</span>
 											<h2><a href="#">Gajar Halwa<br /></a></h2>
