@@ -19,7 +19,7 @@
 					<div id="intro">
 						<h1>Cooking<br />
 						</h1>
-						<p>Update the Information</a>.</p>
+						<p>Cooking Menu's</p>
 						<ul class="actions">
 							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
 						</ul>
@@ -52,9 +52,9 @@
 							<article class="post featured">
 								<header class="major">
 									<span class="date">April 01, 2020</span>
-									<h2><a href="#">Receipe for<br />
+									<h2><a href="#">Recipe for<br />
 									Vada Pav</a></h2>
-									<p>How to make vadapav.</p>
+									<p>Describes steps to prepare vada pav.</p>
 								</header>
 								<a href="#" class="image main"><img src="images/pic01.jpg" alt="" /></a>
 								<ul class="actions special">
@@ -66,12 +66,11 @@
 							<section class="posts">
 								<article>
 									<header>
-										<span class="date">April 24, 2017</span>
-										<h2><a href="#">Sed magna<br />
-										ipsum faucibus</a></h2>
+										<span class="date">April 02, 2020</span>
+										<h2><a href="#">Gobi Manchuri<br />
 									</header>
 									<a href="#" class="image fit"><img src="images/pic02.jpg" alt="" /></a>
-									<p>bla bla.</p>
+									<p>Recipe how to make Gobi Manchuri.</p>
 									<ul class="actions special">
 										<li><a href="#" class="button">Full Story</a></li>
 									</ul>
