@@ -116,6 +116,10 @@
 										<input type="text" name="name" id="name" />
 									</div>
 									<div class="field">
+										<label for="email">tilmaskitchen@gmail.com</label>
+										<input type="text" name="email" id="email" />
+									</div>
+									<div class="field">
 										<label for="message">Comments</label>
 										<textarea name="message" id="message" rows="3"></textarea>
 									</div>
