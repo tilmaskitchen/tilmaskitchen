@@ -53,8 +53,8 @@
 								<header class="major">
 									<span class="date">April 01, 2020</span>
 									<h2><a href="#">Recipe for<br />
-									Vada Pav</a></h2>
-									<p>Describes steps to prepare vada pav.</p>
+									Vegetable Burger</a></h2>
+									<p>Describes steps to prepare vegetable burger.</p>
 								</header>
 								<a href="#" class="image main"><img src="images/pic01.jpg" alt="" /></a>
 								<ul class="actions special">
@@ -66,7 +66,7 @@
 							<section class="posts">
 								<article>
 									<header>
-										<span class="date">April 02, 2020</span>
+										<span class="date">March 02, 2020</span>
 										<h2><a href="#">Gobi Manchuri<br /></a></h2>
 									</header>
 									<a href="#" class="image fit"><img src="images/pic02.jpg" alt="" /></a>
@@ -75,6 +75,18 @@
 										<li><a href="#" class="button">Full Story</a></li>
 									</ul>
 								</article>
+								<section class="posts">
+									<article>
+										<header>
+											<span class="date">April 02, 2020</span>
+											<h2><a href="#">Gajar Halwa<br /></a></h2>
+										</header>
+										<a href="#" class="image fit"><img src="images/pic03.jpg" alt="" /></a>
+										<p>Recipe how to make Gajar Halwa.</p>
+										<ul class="actions special">
+											<li><a href="#" class="button">Full Story</a></li>
+										</ul>
+									</article>								
 							</section>
 
 						<!-- Footer -->
@@ -104,11 +116,7 @@
 										<input type="text" name="name" id="name" />
 									</div>
 									<div class="field">
-										<label for="email">tilmaskitchen@gmail.com</label>
-										<input type="text" name="email" id="email" />
-									</div>
-									<div class="field">
-										<label for="message">Subscribe for my youtube channel</label>
+										<label for="message">Comments</label>
 										<textarea name="message" id="message" rows="3"></textarea>
 									</div>
 								</div>
@@ -119,8 +127,8 @@
 						</section>
 						<section class="split contact">
 							<section>
-								<h3>tilmaskitchen@gmail.com</h3>
-								<p><a href="#">info@untitled.tld</a></p>
+								<h3>tilmaskitchen</h3>
+								<p><a href="#">tilmaskitchen@gmail.com</a></p>
 							</section>
 							<section>
 								<h3>Social</h3>
