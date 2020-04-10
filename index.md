@@ -130,7 +130,7 @@
 						</section>
 						<section class="split contact">
 							<section>
-								<h3>tilmaskitchen</h3>
+								<h3>Contact</h3>
 								<p><a href="#">tilmaskitchen@gmail.com</a></p>
 							</section>
 							<section>
