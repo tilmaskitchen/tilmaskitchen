@@ -67,7 +67,7 @@
 								<article>
 									<header>
 										<span class="date">April 02, 2020</span>
-										<h2><a href="#">Gobi Manchuri<br />
+										<h2><a href="#">Gobi Manchuri<br /></a></h2>
 									</header>
 									<a href="#" class="image fit"><img src="images/pic02.jpg" alt="" /></a>
 									<p>Recipe how to make Gobi Manchuri.</p>
